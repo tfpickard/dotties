@@ -1,0 +1,6 @@
+[submodule "astronvim_config"]
+	path = astronvim_config
+	url = git@github.com:tfpickard/astronvim_config.git
+[submodule "home/.config/astronvim_config"]
+	path = home/.config/nvim
+	url = git@github.com:tfpickard/astronvim_config.git
